@@ -88,8 +88,18 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://feiranyou.github.io/twinjepa/"><strong>Project page</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://arxiv.org/abs/2610.02922"><strong>Paper</strong></a>
-</p>
+## 📚 Cite Our Work
+
+Should our code assist in your research, please acknowledge our work by citing:
+
+```bib
+@misc{you2026twinjepa,
+  title         = {TwinJEPA: Action-Preferred Predictive Representations for Goal-Conditioned Control},
+  author        = {You, Feiran and Du, Hongyang},
+  year          = {2026},
+  eprint        = {2610.02922},
+  archivePrefix = {arXiv},
+  primaryClass  = {eess.SY},
+  url           = {https://arxiv.org/abs/2610.02922}
+}
+```
