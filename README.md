@@ -24,7 +24,7 @@
 <h2 align="center">Demos</h2>
 
 <p align="center">
-  <a href="https://feiranyou.github.io/twinjepa/#demos"><strong>Watch every demo on the project page</strong></a>
+  <a href="https://feiranyou.github.io/twinjepa/#demos"><strong>Watch every demo and experimental detail on the project page</strong></a>
 </p>
 
 <h3 align="center">ExORL Quadruped · stand</h3>
