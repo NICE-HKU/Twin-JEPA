@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/figures/fig1_overview.png" alt="Figure 1. TwinJEPA overview." width="100%">
+  <img src="fig1_overview.png" alt="Figure 1. TwinJEPA overview." width="100%">
 </p>
 
 <p align="center">
@@ -33,16 +33,16 @@
 <h2 align="center">Environments</h2>
 
 <p align="center">
-  <img src="assets/figures/envs_all.png" alt="Environment views of AntMaze, Maze2D, Walker, Cheetah, and Quadruped." width="100%">
+  <img src="envs_all.png" alt="Environment views of AntMaze, Maze2D, Walker, Cheetah, and Quadruped." width="100%">
 </p>
 
 <table>
   <tr>
-    <td align="center" width="20%"><img src="assets/figures/hero_tiles/antmaze.png" alt="AntMaze" width="100%"></td>
-    <td align="center" width="20%"><img src="assets/figures/hero_tiles/maze2d.png" alt="Maze2D" width="100%"></td>
-    <td align="center" width="20%"><img src="assets/figures/hero_tiles/walker.png" alt="Walker" width="100%"></td>
-    <td align="center" width="20%"><img src="assets/figures/hero_tiles/cheetah.png" alt="Cheetah" width="100%"></td>
-    <td align="center" width="20%"><img src="assets/figures/hero_tiles/quadruped.png" alt="Quadruped" width="100%"></td>
+    <td align="center" width="20%"><img src="hero_tiles/antmaze.png" alt="AntMaze" width="100%"></td>
+    <td align="center" width="20%"><img src="hero_tiles/maze2d.png" alt="Maze2D" width="100%"></td>
+    <td align="center" width="20%"><img src="hero_tiles/walker.png" alt="Walker" width="100%"></td>
+    <td align="center" width="20%"><img src="hero_tiles/cheetah.png" alt="Cheetah" width="100%"></td>
+    <td align="center" width="20%"><img src="hero_tiles/quadruped.png" alt="Quadruped" width="100%"></td>
   </tr>
   <tr>
     <td align="center"><strong>AntMaze</strong><br><sub>OGBench</sub></td>
