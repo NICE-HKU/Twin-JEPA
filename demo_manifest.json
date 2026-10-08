@@ -1,0 +1,126 @@
+{
+  "walker": {
+    "task": "walker_walk",
+    "metric": "stored walk return (RND buffer)",
+    "fail": {
+      "kind": "low_return",
+      "episode": "episode_000013_1000.npz",
+      "T": 1001,
+      "first_hit": null,
+      "mean": 0.08350948989391327,
+      "mx": 0.7586624622344971
+    },
+    "success": {
+      "kind": "high_return",
+      "episode": "episode_000108_1000.npz",
+      "T": 1001,
+      "first_hit": null,
+      "mean": 0.4373380243778229,
+      "mx": 0.9999868273735046
+    }
+  },
+  "cheetah": {
+    "task": "cheetah_run",
+    "metric": "stored run return (RND buffer)",
+    "fail": {
+      "kind": "low_return",
+      "episode": "episode_000056_1000.npz",
+      "T": 1001,
+      "first_hit": null,
+      "mean": 0.0,
+      "mx": 0.0
+    },
+    "success": {
+      "kind": "high_return",
+      "episode": "episode_000334_1000.npz",
+      "T": 1001,
+      "first_hit": null,
+      "mean": 0.10591012239456177,
+      "mx": 0.3063491880893707
+    }
+  },
+  "quadruped": {
+    "task": "quadruped_stand",
+    "metric": "stored stand return (RND buffer)",
+    "fail": {
+      "kind": "low_return",
+      "episode": "episode_000001_1000.npz",
+      "T": 1001,
+      "first_hit": null,
+      "mean": 0.002390650799497962,
+      "mx": 0.06955094635486603
+    },
+    "success": {
+      "kind": "high_return",
+      "episode": "episode_000192_1000.npz",
+      "T": 1001,
+      "first_hit": null,
+      "mean": 0.5003259778022766,
+      "mx": 0.6115458607673645
+    }
+  },
+  "antmaze": {
+    "task": "antmaze-medium-navigate-singletask-task1-v0",
+    "metric": "goal-reaching (dist<=0.5)",
+    "fail": {
+      "kind": "miss_goal",
+      "episode": "episode_000029_1000.npz",
+      "T": 1001,
+      "first_hit": null,
+      "min_dist": 22.656810760498047,
+      "end_dist": 28.449586868286133,
+      "motion": 112.20431518554688,
+      "goal_xy": [
+        20.0,
+        20.0
+      ],
+      "threshold": 0.5
+    },
+    "success": {
+      "kind": "reach_goal",
+      "episode": "episode_000202_1000.npz",
+      "T": 1001,
+      "first_hit": 172,
+      "min_dist": 0.0008176810224540532,
+      "end_dist": 12.780445098876953,
+      "motion": 141.1797332763672,
+      "goal_xy": [
+        20.0,
+        20.0
+      ],
+      "threshold": 0.5
+    }
+  },
+  "maze2d": {
+    "task": "maze2d-medium-v1-singletask-task1-v0",
+    "metric": "goal-reaching in cell coords (dist<=0.5)",
+    "fail": {
+      "kind": "miss_goal",
+      "episode": "episode_000856_389.npz",
+      "T": 389,
+      "first_hit": null,
+      "min_dist": 2.066063404083252,
+      "end_dist": 6.461170673370361,
+      "motion": 11.86889362335205,
+      "goal_cell": [
+        1,
+        1
+      ],
+      "threshold": 0.5
+    },
+    "success": {
+      "kind": "reach_goal",
+      "episode": "episode_001778_369.npz",
+      "T": 369,
+      "first_hit": 358,
+      "min_dist": 0.0979030653834343,
+      "end_dist": 0.0979030653834343,
+      "motion": 11.758111953735352,
+      "goal_cell": [
+        1,
+        1
+      ],
+      "threshold": 0.5
+    }
+  }
+}
