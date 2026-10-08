@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  TwinJEPA enhances joint-embedding predictive architectures with action-preference learning for offline zero-shot control.
+  TwinJEPA enhances joint-embedding predictive architectures <br> with action-preference learning for offline zero-shot control.
 </p>
 
 
@@ -24,7 +24,6 @@
 <h2 align="center">Demos</h2>
 
 <p align="center">
-  Failure on the left, success on the right. Press play here, then open the project page for the matched figures and write-up.<br>
   <a href="https://feiranyou.github.io/twinjepa/#demos"><strong>Watch every demo on the project page</strong></a>
 </p>
 
