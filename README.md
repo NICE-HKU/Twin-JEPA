@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Feiran You</strong>    &nbsp;,&nbsp;    <strong>Hongyang Du</strong><br>
+  <strong>Feiran You</strong> &nbsp;,&nbsp;    <strong>Hongyang Du</strong><br>
   The University of Hong Kong
 </p>
 
