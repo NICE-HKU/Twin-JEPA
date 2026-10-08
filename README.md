@@ -16,42 +16,10 @@
 </p>
 
 <p align="center">
-  TwinJEPA keeps the TD-JEPA backbone and adds offline-mined reward-gap<br>
-  and preference supervision, with no extra cost at inference.
+  TwinJEPA enhances joint-embedding predictive architectures with action-preference learning for offline zero-shot control.
 </p>
 
-<p align="center">
-  <img src="fig1_overview.png" alt="Figure 1. TwinJEPA overview." width="100%">
-</p>
 
-<p align="center">
-  <strong>Figure 1.</strong>
-  A temporal-prediction objective learns goal-conditioned structure.
-  TwinJEPA mines action-diverse pairs and trains reward-gap and preference heads on one shared representation.
-</p>
-
-<h2 align="center">Environments</h2>
-
-<p align="center">
-  <img src="envs_all.png" alt="Environment views of AntMaze, Maze2D, Walker, Cheetah, and Quadruped." width="100%">
-</p>
-
-<table>
-  <tr>
-    <td align="center" width="20%"><img src="hero_tiles/antmaze.png" alt="AntMaze" width="100%"></td>
-    <td align="center" width="20%"><img src="hero_tiles/maze2d.png" alt="Maze2D" width="100%"></td>
-    <td align="center" width="20%"><img src="hero_tiles/walker.png" alt="Walker" width="100%"></td>
-    <td align="center" width="20%"><img src="hero_tiles/cheetah.png" alt="Cheetah" width="100%"></td>
-    <td align="center" width="20%"><img src="hero_tiles/quadruped.png" alt="Quadruped" width="100%"></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>AntMaze</strong><br><sub>OGBench</sub></td>
-    <td align="center"><strong>Maze2D</strong><br><sub>D4RL</sub></td>
-    <td align="center"><strong>Walker</strong><br><sub>DMC</sub></td>
-    <td align="center"><strong>Cheetah</strong><br><sub>ExORL</sub></td>
-    <td align="center"><strong>Quadruped</strong><br><sub>ExORL</sub></td>
-  </tr>
-</table>
 
 <h2 align="center">Demos</h2>
 
